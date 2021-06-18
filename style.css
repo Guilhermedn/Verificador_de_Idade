@@ -9,6 +9,24 @@ header {
     text-align: center;
 }
 
+h1 {
+    text-shadow: 0px 3px 5px rgb(0, 0, 0)
+}
+
+#res {
+    text-align: center;
+}
+
+.sexo {
+    font-weight: bold;
+    text-align: center;
+}
+
+#ano {
+    font-weight: bold;
+}
+
+
 section {
     background: white;
     border-radius: 10px;
@@ -23,4 +41,6 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+    text-shadow: 0px 3px 3px rgb(0, 0, 0);
+
 }
