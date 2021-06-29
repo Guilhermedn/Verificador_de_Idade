@@ -4,6 +4,6 @@ a idade.
 
 <br>Exemplo: 1 Ano (foto de uma Bebe), 10 Anos (foto de uma Criança), etc..</strong></p>
 
-![Captura de tela de 2021-06-18 03-33-31](https://user-images.githubusercontent.com/83857769/122517466-7195c300-cfe6-11eb-9f3a-0c92956152db.png)
+![Captura de tela de 2021-06-29 18-54-24](https://user-images.githubusercontent.com/83857769/123872420-707c6400-d90b-11eb-9c25-cae01db40e8b.png)
   
 </div>
