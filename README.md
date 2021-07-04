@@ -4,7 +4,8 @@ a idade.
 
 <br>Exemplo: 1 Ano (foto de uma Bebe), 10 Anos (foto de uma Criança), etc..</strong></p>
 
-![WhatsApp Image 2021-06-29 at 23 38 14](https://user-images.githubusercontent.com/83857769/123893739-5787a900-d933-11eb-8c67-8fb5e5df13c3.jpeg)
+![Captura de tela de 2021-07-04 06-44-10](https://user-images.githubusercontent.com/83857769/124380519-5936d100-dc93-11eb-8e64-dd063cd5aaf1.png)
+
 
   
 </div>
